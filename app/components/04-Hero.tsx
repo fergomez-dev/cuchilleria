@@ -40,7 +40,7 @@ export default function Hero() {
 
         <div className="relative mx-auto h-[360px] w-full max-w-lg overflow-hidden bg-[var(--background-dark)] sm:h-[440px]">
           <Image
-            src="/images/hero/cuchillo-hero.jpg"
+            src="/images/hero/cuchillo-hero.webp"
             alt="Cuchillo Federal Cuchillos"
             fill
             priority
